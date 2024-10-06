@@ -208,7 +208,3 @@ We welcome contributions! Please follow these steps:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-# Phase_4_week_1_code_challenge
-# Phase_4_week_1_code_challenge
-# Phase_4_week_1_code_challenge
